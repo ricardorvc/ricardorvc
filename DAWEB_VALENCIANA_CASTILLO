@@ -1,0 +1,32 @@
+<html lang="es">
+<head>
+<title>Taller Electrico El Bicho</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="styles.css"/>
+
+</head>
+
+<body>
+    <div id="header">
+       <center><h1><b>Taller electrico el Bicho</b></h1></center>
+    </div>
+
+
+    <div id="body">
+        <center><h1><b>¿Ya no funciona tu motor eléctrico? No te preocupes, en Motorsa somos expertos en la reparación de motores eléctricos y embobinados industriales en Ciudad Juárez.
+
+Tenemos más de 26 años de experiencia reparando de forma efectiva motores eléctricos de grandes capacidades AC (Corriente Alterna) y DC (Corriente Directa), así como transformadores eléctricos en seco y bobinas especiales.</b></h1></center>
+    </div>
+
+
+    <div id="footer"></div>
+    <center><h1><b1>AV TECNOLOGICO 5251 , LA CUESTA , CIUDAD JUÁREZ , CHIH , C.P. 32650</b1></h1></center>
+
+    
+    <div id="absid"></div>
+    <center><h1><b1>SE ARREGLAN MANGUERAS,FRENOS,BANDAS,MOTORES,AIR BAGS,DIRECCION,SUSPENSION,CAMBIOS DE ACEITE</b1></h1></center>
+</body>
+
+
+
+</html>
